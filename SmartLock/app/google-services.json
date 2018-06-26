@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "243224894405",
+    "firebase_url": "https://smartlock-seniorproject.firebaseio.com",
+    "project_id": "smartlock-seniorproject",
+    "storage_bucket": "smartlock-seniorproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243224894405:android:b9fc079c0a850efe",
+        "android_client_info": {
+          "package_name": "com.example.pc1.myfirstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243224894405-cebiub16jts9ikqt39boe7v9hhkn6em3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc1.myfirstapp",
+            "certificate_hash": "baeb54251b1a1c0e64d370e84ecb735d3299f39f"
+          }
+        },
+        {
+          "client_id": "243224894405-ots7m7lntjbfleok25q43vblvhceumv1.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "243224894405-ots7m7lntjbfleok25q43vblvhceumv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVTydaJbJth-4rSC8ATG6kbbKIwP9k17Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243224894405-ots7m7lntjbfleok25q43vblvhceumv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243224894405:android:a415a1803b1f1b0d",
+        "android_client_info": {
+          "package_name": "com.example.pc1.smartlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243224894405-1clh2r7f5aac89n7fmvpia4ra716kamk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc1.smartlock",
+            "certificate_hash": "baeb54251b1a1c0e64d370e84ecb735d3299f39f"
+          }
+        },
+        {
+          "client_id": "243224894405-ots7m7lntjbfleok25q43vblvhceumv1.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "243224894405-ots7m7lntjbfleok25q43vblvhceumv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVTydaJbJth-4rSC8ATG6kbbKIwP9k17Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243224894405-ots7m7lntjbfleok25q43vblvhceumv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
